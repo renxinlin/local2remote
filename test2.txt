@@ -1,0 +1,10 @@
+#test2
+“”“
+python3
+”“”
+print("hello python")
+
+def coming():
+    print("""coming 
+    baby
+    coming""")
